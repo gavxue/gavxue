@@ -1,6 +1,8 @@
-<h1>👋 Hey there, I'm Gavin</h1>
-<h3>Currently a computer science student at the University of Waterloo.</h3>
+## 👋 Hey there, I'm Gavin 
+I am a Computer Science student at the University of Waterloo and a full-stack developer.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gavxue&label=Profile%20views&color=0e75b6&style=flat" alt="gavxue" /> </p>
+## 🌱 I’m currently working on
+Learning more about back-end technologies. I am also interested in specializing in cloud computing, artificial intelligence, and data science!
 
-- 🌱 I’m currently learning **full stack development**
+## 📖 Skills
+[![My Skills](https://skillicons.dev/icons?i=python,js,html,css,react,tailwind,nodejs,express,nextjs,mongodb,c,cpp,java)](https://skillicons.dev)
