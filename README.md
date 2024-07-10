@@ -5,7 +5,6 @@ I am a Computer Science student at the University of Waterloo and a full-stack d
 Learning more about back-end technologies. I am also interested in specializing in cloud computing, artificial intelligence, and data science!
 
 ## 📖 Skills
-[![My Skills](https://skillicons.dev/icons?i=python,js,html,css,react,tailwind,nodejs,express,nextjs,mongodb,c,cpp,java)](https://skillicons.dev)
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
 <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
